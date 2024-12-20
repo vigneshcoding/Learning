@@ -1,0 +1,7 @@
+Patten Program(Matrix)
+----------------------
+ * Pattern is nothing but matrix
+ * Matrix is combination of rows and columns(multiple sets)
+ * The size of the matrix is represented by the variable "n"
+ * No of rows and No of Columns should be Equal
+ * The value of 'n' should be Odd

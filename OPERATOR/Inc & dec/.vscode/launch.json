@@ -1,0 +1,52 @@
+{
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "EvenOrOdd",
+      "request": "launch",
+      "mainClass": "EvenOrOdd",
+      "projectName": "Inc & dec_e4a7a8c4"
+    },
+    {
+      "type": "java",
+      "name": "CondStr",
+      "request": "launch",
+      "mainClass": "CondStr",
+      "projectName": "Inc & dec_e4a7a8c4"
+    },
+    {
+      "type": "java",
+      "name": "INC",
+      "request": "launch",
+      "mainClass": "INC",
+      "projectName": "Inc & dec_e4a7a8c4"
+    },
+    {
+      "type": "java",
+      "name": "Dec",
+      "request": "launch",
+      "mainClass": "Dec",
+      "projectName": "Inc & dec_e4a7a8c4"
+    },
+    {
+      "name": "C/C++ Runner: Debug Session",
+      "type": "cppdbg",
+      "request": "launch",
+      "args": [],
+      "stopAtEntry": false,
+      "externalConsole": true,
+      "cwd": "d:/Learn/JAVA/OPERATOR/Inc & dec",
+      "program": "d:/Learn/JAVA/OPERATOR/Inc & dec/build/Debug/outDebug",
+      "MIMode": "gdb",
+      "miDebuggerPath": "gdb",
+      "setupCommands": [
+        {
+          "description": "Enable pretty-printing for gdb",
+          "text": "-enable-pretty-printing",
+          "ignoreFailures": true
+        }
+      ]
+    }
+  ]
+}

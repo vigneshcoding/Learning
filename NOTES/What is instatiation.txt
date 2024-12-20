@@ -1,0 +1,3 @@
+What is instatiation ?
+	- The Process where the object which is present inside another object can be initialed accoding to the programmer wish
+	- Here we achive initialization by using method
